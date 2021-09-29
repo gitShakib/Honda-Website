@@ -1,6 +1,46 @@
+.top-part{
+    background-color:#264653;
+}
 .catagories{
     margin-top: 64px;
 }
 .align-items{
     margin-top: 120px;
+}
+.user-images{
+    width: 149px;
+    height: 149px;
+    margin-left: 90px;
+    margin-top: 40px;
+}
+.element-style{
+    text-align: center;
+    padding: 0 13px;
+}
+.color-highlight{
+    color: #23A6F0;
+    font-size: 14px;
+    font-weight: 600px;
+    margin-top: 15px;
+}
+.fa-star.filled{
+    color: #E77C40;
+}
+.banker{
+    color: #252B42;
+    font-size: 14px;
+    font-weight: 600px;
+    margin-top: 15px;
+    line-height: 24px;
+}
+/* contact  */
+.honda-bg-info{
+    background-color:#feeae9 ;
+}
+.hobda-btn-danger{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
 }
